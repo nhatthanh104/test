@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "file dau tien tren github!\n";
+    std::cout << "sau khi da chinh sua!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
